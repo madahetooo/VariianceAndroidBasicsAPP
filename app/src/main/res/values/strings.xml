@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">variiance</string>
+    <string name="helloworld">Hello World!</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="hello_welcome_back">Hello, Welcome Back!!</string>
+    <string name="variiance_logo">Variiance Logo</string>
+    <string name="hello_lets_login">Hello, Lets Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account_register">Dont have an account?! Register</string>
+    <string name="welcome_lets_register">Welcome, Lets Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account?! Login</string>
+    <string name="forget_your_password_reset_it">Forget your password ?? Reset it</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="welcome_to_our_restuarant">Welcome to our Restuarant</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="lemon">Lemon</string>
+    <string name="order">Order</string>
+    <string name="result_is">Result is :</string>
+    <string name="planet_prompt">Choose a planet</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log out</string>
+    <string name="language">Language</string>
+    <string name="eslam_medhat">Eslam Medhat</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="al_ahly">Al Ahly</string>
+    <string-array name="countries">
+        <item>Egypt</item>
+        <item>UAE</item>
+        <item>KSA</item>
+        <item>BAHRIN</item>
+        <item>SUDAN</item>
+        <item>SYRIA</item>
+        <item>IRAQ</item>
+        <item>Suadi Arabia</item>
+    </string-array>
+
+    <string-array name="employees_names">
+        <item>Eslam Medhat</item>
+        <item>Omar Magdy</item>
+        <item>Mahmoud Hamdy</item>
+        <item>Omar Khalid</item>
+        <item>Beshoy moawad</item>
+        <item>Ziad Bastawy</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+        <item>Hazem ibrahim</item>
+        <item>Mohamed Gamal</item>
+        <item>Hazem ibrahim</item>
+    </string-array>
+
+    <string-array name="employees_titles">
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+        <item>Android developer</item>
+        <item>Ios developer</item>
+        <item>Flutter Developer</item>
+        <item>PHP Developer</item>
+
+    </string-array>
+</resources>

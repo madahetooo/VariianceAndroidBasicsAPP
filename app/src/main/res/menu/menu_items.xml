@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settings_item"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"/>
+
+    <item
+        android:id="@+id/profile_item"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/language"
+        android:title="@string/language"
+        android:icon="@drawable/ic_settings"/>
+    <item
+        android:id="@+id/log_out"
+        android:title="@string/log_out"
+        android:icon="@drawable/ic_logout"/>
+
+
+
+</menu>
